@@ -31,7 +31,7 @@ while keeping everything open-source and easy to understand.
 
 ## ▶️ How to use
 
-1. Download [`Alecstry-BRD-Tool.bat`](https://github.com/alecstry/Alecstry-BRD-Tool/releases/tag/v1.0)
+1. Download [`Alecstry-BRD-Tool.bat`](https://github.com/alecstry/BRD-Tool/releases/tag/v1.0)
 2. Right-click → **Run as administrator**
 3. Follow the on-screen menu:
    - Install
@@ -71,6 +71,7 @@ https://www.youtube.com/@alecstry
 ---
 
 ## 📜 License
+
 
 
 This project is released under the **MIT License**.
