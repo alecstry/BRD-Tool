@@ -21,7 +21,7 @@ while keeping everything open-source and easy to understand.
 
 ## 📋 Requirements
 
-- Windows 10 or Windows 11``
+- Windows 10 or Windows 11
 - Minecraft Bedrock for Windows  
   (Microsoft Store or official Minecraft Launcher)
 - Internet connection (to download winhttp.dll)
@@ -75,3 +75,4 @@ https://www.youtube.com/@alecstry
 
 
 This project is released under the **MIT License**.
+
