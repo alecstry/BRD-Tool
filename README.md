@@ -31,7 +31,7 @@ para usuarios no tecnicos, manteniendo todo **open-source** y facil de entender.
 
 ## ▶️ Como usar
 
-1. Descarga [`BRD-Tool.bat`](https://github.com/alecstry/BRD-Tool/releases/tag/v1.0) desde la seccion Releases
+1. Descarga [`BRD-Tool.bat`](https://github.com/alecstry/BRD-Tool/releases) desde la seccion Releases
 2. Clic derecho → **Ejecutar como administrador**
 3. Sigue el menu en pantalla:
    - Instalar
@@ -76,6 +76,7 @@ Guia completa disponible en:
 
 
 Este proyecto se distribuye bajo la **Licencia MIT**.
+
 
 
 
