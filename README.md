@@ -1,79 +1,81 @@
 # BRD Tool
 
-A simple and transparent Windows batch tool to install, update and uninstall  
-**BetterRenderDragon** on **Minecraft Bedrock for Windows (10 / 11)**.
+Una herramienta simple y transparente en **Windows Batch (.bat)** para instalar,
+actualizar y desinstalar **BetterRenderDragon** en  
+**Minecraft Bedrock para Windows (10 / 11)**.
 
-This tool was created to simplify a process that is often confusing for non-technical users,
-while keeping everything open-source and easy to understand.
-
----
-
-## ✨ Features
-
-- Automatic detection of Minecraft Bedrock installation
-- One-click base installation (winhttp.dll + mods folder)
-- Easy update workflow for BetterRenderDragon DLL
-- Uninstall (return to vanilla Minecraft)
-- No external programs required
-- Fully open-source (.bat file)
+Este proyecto fue creado para simplificar un proceso que suele ser confuso
+para usuarios no tecnicos, manteniendo todo **open-source** y facil de entender.
 
 ---
 
-## 📋 Requirements
+## ✨ Funciones
 
-- Windows 10 or Windows 11
-- Minecraft Bedrock for Windows  
-  (Microsoft Store or official Minecraft Launcher)
-- Internet connection (to download winhttp.dll)
-- Run the script as **Administrator**
-
----
-
-## ▶️ How to use
-
-1. Download [`BRD-Tool.bat`](https://github.com/alecstry/BRD-Tool/releases/tag/v1.0)
-2. Right-click → **Run as administrator**
-3. Follow the on-screen menu:
-   - Install
-   - Update
-   - Uninstall
-
-The tool will guide you step by step.
+- Deteccion automatica de la instalacion de Minecraft Bedrock
+- Instalacion base con un solo paso (winhttp.dll + carpeta mods)
+- Flujo simple de actualizacion de BetterRenderDragon
+- Desinstalacion segura (volver a Minecraft vanilla)
+- No requiere programas externos
+- Codigo completamente abierto (.bat)
 
 ---
 
-## 🔄 Update workflow (important)
+## 📋 Requisitos
 
-When Minecraft updates, BetterRenderDragon may require a newer DLL version.
+- Windows 10 o Windows 11
+- Minecraft Bedrock para Windows (launcher oficial)
+- Conexion a internet (para descargar winhttp.dll)
+- Ejecutar el script como **Administrador**
 
-Use the **Update** option in the tool:
-- It opens the official BetterRenderDragon releases page
-- It opens the `mods` folder directly
-- You only replace the DLL (no reinstall needed)
+---
+
+## ▶️ Como usar
+
+1. Descarga [`BRD-Tool.bat`](https://github.com/alecstry/BRD-Tool/releases/tag/v1.0) desde la seccion Releases
+2. Clic derecho → **Ejecutar como administrador**
+3. Sigue el menu en pantalla:
+   - Instalar
+   - Actualizar
+   - Desinstalar
+
+La herramienta te guia paso a paso.
+
+---
+
+## 🔄 Flujo de actualizacion (importante)
+
+Cuando Minecraft se actualiza, BetterRenderDragon puede requerir
+una version mas reciente de su DLL.
+
+Usa la opcion **Actualizar BRD**:
+- Abre la pagina oficial de releases
+- Abre directamente la carpeta `mods`
+- Solo reemplazas la DLL (no necesitas reinstalar todo)
 
 ---
 
 ## ⚠️ Disclaimer
 
-- This project is **not affiliated with Mojang or Microsoft**
-- "[BetterRenderDragon](https://github.com/QYCottage/BetterRenderDragon)" and "[ModLoader (Winhttp)](https://github.com/QYCottage/BetterRenderDragon)" are external open-source projects owned by QYCottage
-- Use this tool at your own risk
-- Always back up important Minecraft worlds
+- Este proyecto **no esta afiliado a Mojang ni Microsoft**
+- "[BetterRenderDragon](https://github.com/QYCottage/BetterRenderDragon)" y "[ModLoader (Winhttp)](https://github.com/QYCottage/BetterRenderDragon)" son proyectos externos desarrollados por QYCottage
+- Usa esta herramienta bajo tu propia responsabilidad
+- Se recomienda siempre hacer copia de seguridad de mundos importantes
 
 ---
 
-## 📺 Video tutorial
+## 📺 Tutorial en video
 
-A full visual guide and explanation is available on YouTube:
+Guia completa disponible en:
 
-https://www.youtube.com/@alecstry
+[https://www.youtube.com/@alecstry](https://www.youtube.com/watch?v=IcFeGzNwuwY)
 
 ---
 
-## 📜 License
+## 📜 Licencia
 
 
 
-This project is released under the **MIT License**.
+Este proyecto se distribuye bajo la **Licencia MIT**.
+
 
 
